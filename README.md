@@ -2,7 +2,7 @@
 
 Application - https://project-cocktail-recipe.onrender.com/
 
-A fun and simple web application built with **Node.js**, **Express**, and **EJS** that displays a random cocktail recipe every time you load the page - just hover over the image and recipe will magically apear. It pulls data from [TheCocktailDB API](https://www.thecocktaildb.com/) and presents it in a clean, card-style layout with dynamic content.
+A fun and simple web application built with **Node.js**, **Express**, and **EJS** that displays a **random cocktail recipe every time you load the page** - just hover over the image and recipe will magically apear. It pulls data from [TheCocktailDB API](https://www.thecocktaildb.com/) and presents it in a clean, card-style layout with dynamic content.
 
 ---
 
